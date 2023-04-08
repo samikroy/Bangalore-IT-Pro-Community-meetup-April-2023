@@ -1,8 +1,3 @@
-# Threat-management-with-Workbooks-in-Microsoft-Sentinel-
-Threat management with Workbooks in Microsoft Sentinel 
-
-
-
 ## 👋 🌎 Thank you for attending the session 
 
 ## Threat management with Workbooks in Microsoft Sentinel 
